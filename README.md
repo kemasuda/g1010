@@ -1,5 +1,5 @@
 # g1010
-SB3 analysis of Gaia DR3 1010268155897156864 presented in Section 6 of [Tanikawa et al. (2026)]().
+SB3 analysis of Gaia DR3 1010268155897156864 presented in Section 6 of [Tanikawa et al. (2026)](https://arxiv.org/abs/2601.21125).
 
 ### data/[subaru_250406_g1010_Yb_R12.csv](https://github.com/kemasuda/g1010/blob/main/data/subaru_250406_g1010_Yb_R12.csv)
 
